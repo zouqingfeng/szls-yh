@@ -1,0 +1,2 @@
+AssetBundles/StandaloneWindows/scenes filter=lfs diff=lfs merge=lfs -text
+YaoHuWuShuiChuLiChang.unitypackage filter=lfs diff=lfs merge=lfs -text
